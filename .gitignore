@@ -6,6 +6,7 @@
 *.pot
 db.sqlite3
 media
+.gitignore
 
 # Backup files #
 *.bak
